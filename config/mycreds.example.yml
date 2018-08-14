@@ -1,0 +1,4 @@
+config:
+  environment:
+    region: us-east-1
+    account_id: # Enter your account number here
